@@ -1,0 +1,15 @@
+.vscode/settings.json
+# Ignorar archivos temporales de Python
+*.pyc
+__pycache__/
+
+# Ignorar datos sensibles
+.env
+
+# Ignorar dependencias locales
+venv/
+node_modules/
+
+# Ignorar archivos de salida del sistema operativo
+.DS_Store
+Thumbs.db

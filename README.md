@@ -10,7 +10,13 @@ Se desarrollará por medio de un conjunto de datos de anuncios de coches, el enf
 
 Etapas:
 Configuración (Git Hub, Render).
-Descarga del archivo de datos.
-Trabajar el archivo csv para mostrar los graficos en Render. 
+
+En Jupyter Notbook :
+-Descarga del archivo de datos.
+-Limpieza del archivo  (data_raw a data_clean) y dejar el archivo listo para mostrar los gráficos en Render a través de Streamlit.
+
+En phyton:
+-Configurar los botones y gráficos para ejecutarse en streamlit.
+
 En el proceso guardar los cambios (git commit).
 Conclusiones.
