@@ -1,5 +1,4 @@
-# PracticaDataCars
-Repositorio de Practicas de Data Cars Tripleten 
+Repositorio de Practicas de Data Cars 
 La práctica consiste en crear y manejar espacios virtuales para trabajar con Python, diseñar una aplicación web y ponerla en la nube para que cualquier persona pueda consultarla.
 Objetivo:
 Este proyecto tiene como objetivo practicar tareas comunes de la ingeniería de software y mejorar habilidades en el campo de los datos.
