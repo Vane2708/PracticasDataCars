@@ -13,3 +13,7 @@ node_modules/
 # Ignorar archivos de salida del sistema operativo
 .DS_Store
 Thumbs.db
+
+# Excepción de leer archivo data_clean
+!Data/
+!Data/data_clean.csv

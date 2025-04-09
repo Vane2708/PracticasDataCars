@@ -6,8 +6,7 @@ import plotly.express as px
 st.title("Web Application Cars")
 
 # Cargar archivo csv limpio 
-data_clean = pd.read_csv("C:/Users/Vane/Desktop/PracticasTripletenVane/06DataCars/Data/data_clean.csv")
-
+data_clean = pd.read_csv("Data/data_clean.csv")
 # Subtítulo
 st.subheader("Data Viewer")
 
