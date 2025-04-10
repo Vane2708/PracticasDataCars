@@ -19,3 +19,7 @@ En phyton:
 
 En el proceso guardar los cambios (git commit).
 Conclusiones.
+
+Se logró el objetivo, consulta del proyecto en RENDER a través del siguiente enlace:
+
+https://practicasdatacars.onrender.com/
